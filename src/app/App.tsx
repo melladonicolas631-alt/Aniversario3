@@ -72,6 +72,12 @@ interface MusicTrack {
  * - Ajusta rotation para variar el ángulo de cada polaroid
  */
 const memories: Memory[] = [
+  {id: 2,
+    image: 'https://images.unsplash.com/photo-1535763070021-3854399cfe98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBsYXVnaGluZyUyMGNvZmZlZSUyMHNob3AlMjBkYXRlfGVufDF8fHx8MTc3NjIwMzc4OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    caption: 'Nuestra cafetería favorita',
+    dedication: 'Las tardes de café y risas interminables. Donde nacieron nuestras conversaciones más profundas y donde aprendí que el amor también se construye en los pequeños momentos cotidianos.',
+    rotation: 4,
+  },
   {
     id: 2,
     image: 'https://images.unsplash.com/photo-1535763070021-3854399cfe98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBsYXVnaGluZyUyMGNvZmZlZSUyMHNob3AlMjBkYXRlfGVufDF8fHx8MTc3NjIwMzc4OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
