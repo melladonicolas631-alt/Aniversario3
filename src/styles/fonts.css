@@ -1,0 +1,10 @@
+/* IMPORTACIÓN DE FUENTES DESDE GOOGLE FONTS */
+
+/* Fuente Serif elegante para títulos - Playfair Display */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+
+/* Fuente monospace tipo "máquina de escribir" para pies de foto - Special Elite */
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+/* Fuente Sans-Serif para textos generales - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
