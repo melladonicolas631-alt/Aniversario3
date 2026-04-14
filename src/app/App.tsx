@@ -73,13 +73,6 @@ interface MusicTrack {
  */
 const memories: Memory[] = [
   {
-    id: 1,
-    image: 'https://images.unsplash.com/photo-1675260832247-8b8393b34a4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBob2xkaW5nJTIwaGFuZHMlMjByb21hbnRpYyUyMHN1bnNldHxlbnwxfHx8fDE3NzYyMDM3ODh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    caption: 'Aquel atardecer inolvidable',
-    dedication: 'Recuerdo ese día como si fuera ayer. El sol cayendo mientras nuestras manos se entrelazaban, prometiéndonos que siempre estaríamos juntos. Cada puesta de sol me recuerda a ti.',
-    rotation: -3,
-  },
-  {
     id: 2,
     image: 'https://images.unsplash.com/photo-1535763070021-3854399cfe98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBsYXVnaGluZyUyMGNvZmZlZSUyMHNob3AlMjBkYXRlfGVufDF8fHx8MTc3NjIwMzc4OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
     caption: 'Nuestra cafetería favorita',
