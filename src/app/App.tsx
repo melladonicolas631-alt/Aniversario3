@@ -72,8 +72,11 @@ interface MusicTrack {
  * - Ajusta rotation para variar el ángulo de cada polaroid
  */
 const memories: Memory[] = [
-  {id: 1,
-    image: 'https://imgur.com/d5mEeqJ',
+  const memories: Memory[] = [
+  {
+    id: 1,
+    // CORRECCIÓN APLICADA: Enlace directo al archivo multimedia
+    image: 'https://i.imgur.com/d5mEeqJ.jpg', 
     caption: 'Nuestra cafetería favorita',
     dedication: 'Las tardes de café y risas interminables. Donde nacieron nuestras conversaciones más profundas y donde aprendí que el amor también se construye en los pequeños momentos cotidianos.',
     rotation: 4,
